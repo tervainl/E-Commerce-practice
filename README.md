@@ -7,7 +7,7 @@
   - [o] use spring boot to show data from MySQL
   ![](https://i.imgur.com/yn18lns.png)
   
-  - [o] generate menu and show products list
+  - [v] generate menu and show products list
   ![](https://i.imgur.com/KG9A817.png)
   
   - [x] search function
